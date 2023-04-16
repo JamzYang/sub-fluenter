@@ -1,0 +1,19 @@
+1
+00:00:00,097 --> 00:00:01,825
+Hi, Matt here?
+
+2
+00:00:01,825 --> 00:00:04,312
+We've got some exciting news to share.
+
+3
+00:00:04,312 --> 00:00:08,960
+Think Fast Talk Smart has been nominated for two Webby awards.
+
+4
+00:00:08,960 --> 00:00:11,579
+One, for best business podcast and,
+
+5
+00:00:11,579 --> 00:00:15,342
+the other for best science and education podcast.
